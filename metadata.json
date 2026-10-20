@@ -1,0 +1,6 @@
+{
+  "name": "Kusi - Tutor IA Escolar",
+  "description": "Aplicación web educativa interactiva con temática de inteligencia artificial para niños de 6to de primaria, con estilo lúdico y la llamita Kusi como guía escolar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
